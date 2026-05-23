@@ -2,4 +2,6 @@
 
 ## March 4, 2026
 - Learned Command Design Pattern
-- Implemented Command Pattern in C++
+
+## May 23, 2026
+- Learned Chain of Responsibility Pattern
